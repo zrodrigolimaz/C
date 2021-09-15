@@ -1,6 +1,6 @@
 # Linguagem-C-Fundamentos
 
-<h1>Códigos das minhas aulas ministradas <b>no Centro Universitário de Brasília</b>  </h1>
+<h2>Códigos das minhas aulas ministradas <b>no Centro Universitário de Brasília</b>  </h2>
     
   ##
 
