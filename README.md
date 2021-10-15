@@ -4,7 +4,7 @@
 
 Tópicos <h2> Códigos das minhas aulas ministradas no  <b>Centro Universitário de Brasília</b>  </h2>
 
-    ## 
+
 
 Utilizar diferentes tipos de variáveis (Int, Float, Char, Boolean)
     
