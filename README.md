@@ -1,5 +1,5 @@
 # Linguagem-C-Fundamentos
-<img align="left" src="https://institucional.uniceub.br/hubfs/BrandCenter/img/logo-ceub-mono-chapada.png">
+<img align="center" src="https://institucional.uniceub.br/hubfs/BrandCenter/img/logo-ceub-mono-chapada.png">
 
 
 <h2> Códigos das minhas aulas ministradas no  <b>Centro Universitário de Brasília</b>  </h2>
@@ -8,7 +8,7 @@
 
 <div> _ </div>
 
-<div> ## </div>
+<div> ## a </div>
 
     ##
 
