@@ -5,9 +5,7 @@
 Tópicos <h3> Códigos das minhas aulas ministradas no  <b>Centro Universitário de Brasília</b>  </h3>
 
 
-
-
-
+.
 Utilizar diferentes tipos de variáveis (Int, Float, Char, Boolean)
     
 Trabalhar com Condicionais Simples ou Compostas (IF, Switch Case)
