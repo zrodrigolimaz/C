@@ -1,11 +1,15 @@
 # Linguagem-C-Fundamentos
-<img align="left" src="https://institucional.uniceub.br/hubfs/BrandCenter/img/logo-ceub-mono-chapada.png">
+<img align="center" src="https://institucional.uniceub.br/hubfs/BrandCenter/img/logo-ceub-mono-chapada.png">
 
 
-Tópicos <h3> Códigos das minhas aulas ministradas no  <b>Centro Universitário de Brasília</b>  </h3>
+<h2> <b>Códigos ministrados no Centro Universitário de Brasília </h2>
 
 
-.
+<br>
+    
+    
+Conteúdo: <br>
+    <br>
 Utilizar diferentes tipos de variáveis (Int, Float, Char, Boolean)
     
 Trabalhar com Condicionais Simples ou Compostas (IF, Switch Case)
